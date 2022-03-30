@@ -5,6 +5,7 @@ description: 'Class handout for an activity on structuring an impromptu: provide
   to answer a question.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-277-special-seminar-in-communications-leadership-and-personal-effectiveness-coaching-fall-2008/d535ac4d99cdd15317e80f0fb2ccf695_handout_3.pdf
 file_type: application/pdf
+parent_uid: fb2b4adb-a9fa-9c52-a69f-36977eff55c9
 resourcetype: Document
 title: handout_3.pdf
 uid: d535ac4d-99cd-d153-17e8-0f0fb2ccf695

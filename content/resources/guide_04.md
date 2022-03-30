@@ -5,6 +5,7 @@ description: "Facilitator guide for the storytelling about leadership lab: tell 
   \ else's leadership."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-277-special-seminar-in-communications-leadership-and-personal-effectiveness-coaching-fall-2008/e3410bf739fc442fa1698e6e393632b1_guide_04.pdf
 file_type: application/pdf
+parent_uid: 259c1122-d0e2-374e-a2b9-ac4c87bfeb13
 resourcetype: Document
 title: Leadership Story Activity Overview
 uid: e3410bf7-39fc-442f-a169-8e6e393632b1
